@@ -1,0 +1,1 @@
+An extension to Leetcode that removes the difficulty label for all the problems.
